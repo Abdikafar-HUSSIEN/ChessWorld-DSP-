@@ -1,0 +1,2 @@
+Text = "AI"
+Room = rmBoardIA
